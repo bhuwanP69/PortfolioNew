@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    .projects{
+        text-underline-offset: 12px;
+    }
+    .projects:hover.text-underline-color-black {
+        text-decoration-color: rgb(59 130 246);
+      }
+      .project1-info{
+        top: -231px;
+      }
+      .link:hover .project1-info,.link:hover .project-only{
+        display: block;
+      }
+      .img{
+        width: 500px;
+      }
+      .img2{
+        width: 500px;
+        height: 520px;
+      }
+      .img3{
+        width: 500px;
+        height: 510px;
+      }
+     .project1-info{
+      width: 500px;
+      height: 510px;
+     }
+     
+
+}
