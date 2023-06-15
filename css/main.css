@@ -454,6 +454,18 @@ video {
   top: -231px;
 }
 
+.fa-twitter{
+  color: #00acee;
+}
+
+.fa-linkedin{
+  color: #0072b1;
+}
+
+.fa-discord{
+  color: #4266e6;
+}
+
 @media (max-width:600px) {
   .img,.img2,.img3{
     width: 350px;
@@ -595,14 +607,6 @@ video {
 
 .left-9 {
   left: 2.25rem;
-}
-
-.bottom-0 {
-  bottom: 0px;
-}
-
-.-bottom-20 {
-  bottom: -5rem;
 }
 
 .z-20 {
@@ -797,11 +801,6 @@ video {
   line-height: 1.75rem;
 }
 
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
 .font-thin {
   font-weight: 100;
 }
@@ -833,11 +832,6 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.text-black {
-  --tw-text-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .underline {

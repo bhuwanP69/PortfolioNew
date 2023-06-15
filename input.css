@@ -35,6 +35,15 @@
       top: -231px;
      }
 
+     .fa-twitter{
+      color: #00acee;
+     }
+     .fa-linkedin{
+      color: #0072b1;
+     }
+     .fa-discord{
+      color: #4266e6;
+     }
       @media (max-width:600px) {
         .img,.img2,.img3{
           width: 350px;
